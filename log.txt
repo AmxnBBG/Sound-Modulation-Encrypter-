@@ -1,0 +1,43 @@
+Mon 02/28/2022 17:59:57.79 
+
+Parsing NCSD in file "Pokemon Y (USA) (En,Ja,Fr,De,Es,It,Ko).3ds":
+  Parsing Main NCCH
+    Product code: CTR-P-EK2A
+    KeyY: 1FD7D48EA28C87B44FBF458B75CBA63A
+    Title ID: 0004000000055E00
+    Format version: 2
+
+    ExHeader offset:  00000200
+    ExHeader counter: 0004000000055e000100000000000000
+    ExHeader size: 2048 bytes
+    ExeFS offset:  00002E00
+    ExeFS counter: 0004000000055e000200000000000000
+    ExeFS size: 3163136 bytes
+    RomFS offset:  00308000
+    RomFS counter: 0004000000055e000300000000000000
+    RomFS size: 1797873664 bytes
+
+  Parsing Manual NCCH
+    Product code: CTR-P-CTAP
+    KeyY: 15BFA773AB9EE5077F9393A337F69078
+    Title ID: 0005000000055E00
+    Format version: 0
+
+    RomFS offset:  00001000
+    RomFS counter: 0005000000055e000300000000000000
+    RomFS size: 6230016 bytes
+
+  Parsing UpdateData NCCH
+    Product code: CTR-P-CTAP
+    KeyY: DB9DC385EA5CFA2DBD520B7FE5DC69FA
+    Title ID: 1810000000055E00
+    Format version: 0
+
+    RomFS offset:  00001000
+    RomFS counter: 1810000000055e000300000000000000
+    RomFS size: 32907264 bytes
+
+
+Done!
+[NCCH WARNING] Failed to sign CFA header
+[NCSD WARNING] Failed to sign header
